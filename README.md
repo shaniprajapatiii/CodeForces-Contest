@@ -25,6 +25,49 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <details>
 <summary><strong>Click to expand contest-wise solutions</strong></summary>
 
+<ul>
+	<li>
+		<details>
+			<summary><strong>210426</strong> <em>(21/04/2026)</em></summary>
+			<ul>
+				<li>AlternatingString.java</li>
+				<li>NumberBwTwoNo.java</li>
+				<li>RedBlackPair.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>251026</strong> <em>(25/10/2026)</em></summary>
+			<ul>
+				<li>PermutationConstruction.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>281026</strong> <em>(28/10/2026)</em></summary>
+			<ul>
+				<li>DisturbingDistribution.java</li>
+				<li>EverythingEverywhere.java</li>
+				<li>MentalMonumental.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>300426</strong> <em>(30/04/2026)</em></summary>
+			<ul>
+				<li>ItAllWentSideways.java</li>
+				<li>Koshary.java</li>
+				<li>Palindromex.java</li>
+				<li>PartyMonster.java</li>
+				<li>Snowfall.java</li>
+			</ul>
+		</details>
+	</li>
+</ul>
+
 </details>
 
 ---
