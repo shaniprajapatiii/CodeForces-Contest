@@ -28,19 +28,31 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
-			<summary><strong>210426</strong> <em>(21/04/2026)</em></summary>
+			<summary><strong>160526</strong> <em>(16/05/2026)</em></summary>
 			<ul>
-				<li>AlternatingString.java</li>
-				<li>NumberBwTwoNo.java</li>
-				<li>RedBlackPair.java</li>
+				<li>MarisaStealsReimusTakeout.java</li>
+				<li>RemiliaPlaysSoku.java</li>
 			</ul>
 		</details>
 	</li>
 	<li>
 		<details>
-			<summary><strong>251026</strong> <em>(25/10/2026)</em></summary>
+			<summary><strong>060526</strong> <em>(06/05/2026)</em></summary>
 			<ul>
-				<li>PermutationConstruction.java</li>
+				<li>ZhilyAndArrayOperating.java</li>
+				<li>ZhilyBracketSwapping.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>300426</strong> <em>(30/04/2026)</em></summary>
+			<ul>
+				<li>ItAllWentSideways.java</li>
+				<li>Koshary.java</li>
+				<li>Palindromex.java</li>
+				<li>PartyMonster.java</li>
+				<li>Snowfall.java</li>
 			</ul>
 		</details>
 	</li>
@@ -56,13 +68,19 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 	</li>
 	<li>
 		<details>
-			<summary><strong>300426</strong> <em>(30/04/2026)</em></summary>
+			<summary><strong>251026</strong> <em>(25/10/2026)</em></summary>
 			<ul>
-				<li>ItAllWentSideways.java</li>
-				<li>Koshary.java</li>
-				<li>Palindromex.java</li>
-				<li>PartyMonster.java</li>
-				<li>Snowfall.java</li>
+				<li>PermutationConstruction.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>210426</strong> <em>(21/04/2026)</em></summary>
+			<ul>
+				<li>AlternatingString.java</li>
+				<li>NumberBwTwoNo.java</li>
+				<li>RedBlackPair.java</li>
 			</ul>
 		</details>
 	</li>
