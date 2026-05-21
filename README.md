@@ -28,6 +28,14 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>210526</strong> <em>(21/05/2026)</em></summary>
+			<ul>
+				<li>ConstructAnArray.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>160526</strong> <em>(16/05/2026)</em></summary>
 			<ul>
 				<li>MarisaStealsReimusTakeout.java</li>
