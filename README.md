@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>300526</strong> <em>(30/05/2026)</em></summary>
+			<ul>
+				<li>Convergence.java</li>
+				<li>CakeLeveling.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>230526</strong> <em>(23/05/2026)</em></summary>
 			<ul>
 				<li>SmilesOnALine.java</li>
