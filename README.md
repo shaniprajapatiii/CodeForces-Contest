@@ -28,6 +28,25 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>180626</strong> <em>(18/06/2026)</em></summary>
+			<ul>
+				<li>AnnoyingTheGhost.java</li>
+				<li>DestroyingTowers.java</li>
+				<li>DuckSurplus.java</li> // (Unsolved)
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>070626</strong> <em>(07/06/2026)</em></summary>
+			<ul>
+				<li>EuclidSequenceAndTwoNumbers.java</li>
+				<li>PalindromeTwelveAndTwoTerms.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>300526</strong> <em>(30/05/2026)</em></summary>
 			<ul>
 				<li>Convergence.java</li>
