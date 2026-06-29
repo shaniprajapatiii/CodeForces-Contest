@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>280626</strong> <em>(28/06/2026)</em></summary>
+			<ul>
+				<li>AnotherPuzzleFromPapyrus.java</li>
+				<li>CrimsonTriples.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>180626</strong> <em>(18/06/2026)</em></summary>
 			<ul>
 				<li>AnnoyingTheGhost.java</li>
