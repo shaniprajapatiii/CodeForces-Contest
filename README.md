@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>060726</strong> <em>(06/07/2026)</em></summary>
+			<ul>
+				<li>Biagrams.java</li>
+				<li>PredominantFrequencyDivision.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>280626</strong> <em>(28/06/2026)</em></summary>
 			<ul>
 				<li>AnotherPuzzleFromPapyrus.java</li>
