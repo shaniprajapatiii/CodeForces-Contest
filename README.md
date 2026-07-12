@@ -28,6 +28,17 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>120726</strong> <em>(12/07/2026)</em></summary>
+			<ul>
+				<li>FarmpiggieAndSubsetSum.java</li>
+				<li>EzraftAndArray.java</li>
+				<li>AlternatingSums.java</li>
+				<li>DissQuackAndArrayGame.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>060726</strong> <em>(06/07/2026)</em></summary>
 			<ul>
 				<li>Biagrams.java</li>
