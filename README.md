@@ -28,6 +28,16 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>260726</strong> <em>(26/07/2026)</em></summary>
+			<ul>
+				<li>ThresholdMovement.java</li>
+				<li>StringConstruction.java</li>
+				<li>RankSubsequence.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>160726</strong> <em>(16/07/2026)</em></summary>
 			<ul>
 				<li>WhoWatchesTheWatchpig.java</li>
