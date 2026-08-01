@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>010826</strong> <em>(01/08/2026)</em></summary>
+			<ul>
+				<li>YouDeleteIDelete.java</li>
+				<li>MergeToMatch.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>260726</strong> <em>(26/07/2026)</em></summary>
 			<ul>
 				<li>ThresholdMovement.java</li>
