@@ -30,6 +30,17 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 		<details>
 			<summary><strong>010826</strong> <em>(01/08/2026)</em></summary>
 			<ul>
+				<li>Riptide.java</li>
+				<li>Evanescents.java</li>
+				<li>Marenol_EV.java</li>
+				<li>Marenol_HV.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>010826</strong> <em>(01/08/2026)</em></summary>
+			<ul>
 				<li>YouDeleteIDelete.java</li>
 				<li>MergeToMatch.java</li>
 			</ul>
