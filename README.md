@@ -28,7 +28,25 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
-			<summary><strong>010826</strong> <em>(01/08/2026)</em></summary>
+			<summary><strong>070826</strong> <em>(07/08/2026)</em></summary>
+			<ul>
+				<li>TheBestCard.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>060826</strong> <em>(06/08/2026)</em></summary>
+			<ul>
+				<li>BossFight.java</li>
+				<li>AlwaysChanging.java</li>
+				<li>ArrayReplacement.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
+			<summary><strong>040826</strong> <em>(04/08/2026)</em></summary>
 			<ul>
 				<li>Riptide.java</li>
 				<li>Evanescents.java</li>
