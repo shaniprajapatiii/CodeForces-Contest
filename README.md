@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>050926</strong> <em>(05/09/2026)</em></summary>
+			<ul>
+				<li>MooLanguageSchool.java</li>
+				<li>MinusOne.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>070826</strong> <em>(07/08/2026)</em></summary>
 			<ul>
 				<li>TheBestCard.java</li>
