@@ -10,16 +10,21 @@ public class MaximizeXORMinimizeOperations {
 
          long sum = x + y;
          long cur = 0;
-         for(int i = 30; i >= 0; i++) {
-            if(((sum >> i) & 1L) == 1L) {
-               if((cur | (1L << i)) <= x) {
-                  cur |= (1L << i);
+         long target = 0;
+
+         for(int i = 30; i >= 0; i--) {
+            long bit = 1L << i;
+            if((sum & bit) != 0) {
+               cur |= bit;
+               if(target + bit <= x) {
+                  target += bit;
                }
             }
          }
 
-         System.out.println(sum + " " + (x - cur));
+         long ops = x - target;
+         System.out.println(cur + " " + ops);
       }
       sc.close();
-   }   
+   }
 }
