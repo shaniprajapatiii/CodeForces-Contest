@@ -15,7 +15,7 @@ public class MonocarpsContest {
          }
 
          if(zero < 2) {
-            System.err.println(-1);
+            System.out.println(-1);
          }
          else if(a[0] == 0 && a[n - 1] == 0) {
             System.out.println(0);
