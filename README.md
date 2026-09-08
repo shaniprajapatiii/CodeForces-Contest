@@ -28,6 +28,16 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>080926</strong> <em>(08/09/2026)</em></summary>
+			<ul>
+				<li>MonocarpsContest.java</li>
+				<li>MonocarpAndProject.java</li>
+				<li>MaximizeXORMinimizeOperations.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>050926</strong> <em>(05/09/2026)</em></summary>
 			<ul>
 				<li>MooLanguageSchool.java</li>
