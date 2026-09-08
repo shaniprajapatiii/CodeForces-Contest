@@ -9,15 +9,17 @@ public class MaximizeXORMinimizeOperations {
          long y = sc.nextLong();
 
          long sum = x + y;
-         long cur = x;
-
-         while((cur & (sum - cur)) != 0) {
-            long low = cur & (sum - cur);
-            cur -= Long.lowestOneBit(low);
+         long cur = 0;
+         for(int i = 62; i >= 0; i++) {
+            if(((sum >> i) & 1L) == 1L) {
+               if((cur | (1L << i)) <= x) {
+                  cur |= (1L << i);
+               }
+            }
          }
 
          System.out.println(sum + " " + (x - cur));
       }
       sc.close();
-   }
+   }   
 }
