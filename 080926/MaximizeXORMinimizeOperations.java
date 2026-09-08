@@ -10,7 +10,7 @@ public class MaximizeXORMinimizeOperations {
 
          long sum = x + y;
          long cur = 0;
-         for(int i = 62; i >= 0; i++) {
+         for(int i = 30; i >= 0; i++) {
             if(((sum >> i) & 1L) == 1L) {
                if((cur | (1L << i)) <= x) {
                   cur |= (1L << i);
