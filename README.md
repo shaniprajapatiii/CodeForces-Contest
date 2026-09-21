@@ -28,6 +28,15 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>210926</strong> <em>(21/09/2026)</em></summary>
+			<ul>
+				<li>GoodContest.java</li>
+				<li>ThreePiles.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>130926</strong> <em>(13/09/2026)</em></summary>
 			<ul>
 				<li>RumbNeedAHand.java</li>
