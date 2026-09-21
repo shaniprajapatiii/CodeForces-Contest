@@ -9,7 +9,7 @@ public class ThreePiles {
          long b = sc.nextLong();
          long c = sc.nextLong();
 
-         System.out.println(Math.abs((a + c) - b));
+         System.out.println(Math.max(Math.abs(a - b), Math.abs(a + c - b)));
       }
       sc.close();
    }
