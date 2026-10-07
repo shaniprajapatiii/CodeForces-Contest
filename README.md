@@ -28,6 +28,16 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>071026</strong> <em>(07/10/2026)</em></summary>
+			<ul>
+				<li>InSearchOfConvenience.java</li>
+				<li>DidNotGoToPrint.java</li>
+				<li>UnrequitedLove.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>210926</strong> <em>(21/09/2026)</em></summary>
 			<ul>
 				<li>GoodContest.java</li>
