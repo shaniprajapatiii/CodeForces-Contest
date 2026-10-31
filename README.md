@@ -28,6 +28,17 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>311026</strong> <em>(31/10/2026)</em></summary>
+			<ul>
+				<li>FractionAndSix.java</li>
+				<li>StakesAndShapes.java</li>
+				<li>MathAndPhysics.java</li>
+				<li>LockAndUnlock.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>101026</strong> <em>(10/10/2026)</em></summary>
 			<ul>
 				<li>RobotOddMoves.java</li>
