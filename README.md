@@ -28,6 +28,16 @@ All solutions are implemented in **Java**, focusing on clear logic, optimal time
 <ul>
 	<li>
 		<details>
+			<summary><strong>311026</strong> <em>(06/11/2026)</em></summary>
+			<ul>
+				<li>P_15K4JR3B.java</li>
+				<li>P2_15K4JR3B.java</li>
+				<li>IntroductionOfNicheInternet.java</li>
+			</ul>
+		</details>
+	</li>
+	<li>
+		<details>
 			<summary><strong>311026</strong> <em>(31/10/2026)</em></summary>
 			<ul>
 				<li>FractionAndSix.java</li>
